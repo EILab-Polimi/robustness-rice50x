@@ -1,0 +1,6 @@
+"variable","gdx_variable","description","unit"
+"emi_ind","world_e","World emissions industrial","GtCO2/year"
+"gmt_increase","TATM","GMT increase over preindustrial levels","C degrees"
+"cum_co2_emi","CCO2ETOT","Cumulative CO2 emissions (ind + land-use)","GtCO2"
+"emi_tot","world_e","World emissions (ind + land-use)","GtCO2/year"
+"forcing","FORC","Increase in radiative forcing from pre-industrial","W/m2r"
